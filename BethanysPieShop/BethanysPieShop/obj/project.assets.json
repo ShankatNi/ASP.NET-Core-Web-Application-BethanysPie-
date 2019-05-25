@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nites\\Desktop\\Github_Update\\Updated Files\\Delete File after updating\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "C:\\Users\\nites\\Desktop\\Github_Update\\Updated Files\\Delete File after updating\\BethanysPie\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "C:\\Users\\nites\\Desktop\\Github_Update\\Updated Files\\Delete File after updating\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectPath": "C:\\Users\\nites\\Desktop\\Github_Update\\Updated Files\\Delete File after updating\\BethanysPie\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "packagesPath": "C:\\Users\\nites\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nites\\Desktop\\Github_Update\\Updated Files\\Delete File after updating\\BethanysPieShop\\BethanysPieShop\\obj\\",
+      "outputPath": "C:\\Users\\nites\\Desktop\\Github_Update\\Updated Files\\Delete File after updating\\BethanysPie\\BethanysPieShop\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
