@@ -27,6 +27,7 @@ namespace BethanysPieShop
             services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddTransient<IPieRepository, PieRepository>();
+            services.AddTransient<IFeedbackRepository, FeedbackRepository>();
             services.AddMvc();
         }
 
@@ -36,6 +37,8 @@ namespace BethanysPieShop
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles(); //Images
+            app.UseAuthentication();
+
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

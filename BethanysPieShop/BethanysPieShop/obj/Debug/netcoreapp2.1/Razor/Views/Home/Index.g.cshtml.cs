@@ -84,7 +84,7 @@ WriteAttributeValue("", 186, pie.ImageThumbnailUrl, 186, 22, false);
             WriteLiteral(" alt=\"\" >\r\n                <div class=\"caption\">\r\n                    <h3>\r\n                        ");
             EndContext();
             BeginContext(309, 110, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0c9242746f24640a3953033e433250a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0742e8111a804dc7a76b7e4af38cfd9a", async() => {
                 BeginContext(407, 8, false);
 #line 13 "C:\Users\nites\Desktop\Github_Update\Updated Files\Delete File after updating\BethanysPie\BethanysPieShop\BethanysPieShop\Views\Home\Index.cshtml"
                                              Write(pie.Name);
